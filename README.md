@@ -7,23 +7,18 @@
 
 1. قم بتثبيت تطبيق Termux.
 2. افتح تطبيق Termux واستخدم الاوامر التالية:
-   ```sh
-   pkg update && pkg upgrade
-
-   ```sh
-   pkg install python
-
-   ```sh
-   pkg install git
-
-   ```sh
-   git clone https://github.com/Pablo404-EG/root_checker.git
-
-   ```sh
-   cd root_check
-
-   ```sh
-   python root_check.py
+```sh
+   pkg update && pkg upgrade```
+```sh
+   pkg install python```
+```sh
+   pkg install git```
+```sh
+   git clone https://github.com/Pablo404-EG/root_checker.git```
+```sh
+   cd root_check```
+```sh
+   python root_check.py```
 
 # اضرار الروت
 
